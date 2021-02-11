@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "javascript.format.enable": false,
+    "javascript.suggest.completeFunctionCalls": true,
+    "javascript.validate.enable": false,
+}
